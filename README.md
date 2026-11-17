@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodchai0&label=Profile%20views&color=0e75b6&style=plastic" alt="goodchai0" /> </p>
 
-- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **www.amitkewot@gmail.com**
  
